@@ -21,11 +21,11 @@ The primary objective of the AI-Powered Mock Interview System is to simulate rea
   ###1.Clone the repository and install dependencies:
     git clone https://github.com/GunjalaSiddartha/AI-Powered-Mock-Interview-System-2.git
     cd AI-Powered-Mock-Interview-System-2
-  ###2.Navigate to the command prompt and Setup:
+                   2.Navigate to the command prompt and Setup:
     Mack sure thet you are in a correct folder and type
     pnpm install
     pnpm dev
-  ###3.Open the App
+                    3.Open the App
     http://localhost:3000
 
   ---
