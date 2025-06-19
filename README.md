@@ -15,3 +15,4 @@ The **AI-Powered Mock Interview System** is a smart web application designed to 
 - 🌐 **Modern UI** with Tailwind CSS and React
 
 ![image alt](https://github.com/GunjalaSiddartha/AI-Powered-Mock-Interview-System-2/blob/d40b88cdd9fb8b8072674a05f238d9e4efdeb8bb/interface.png)
+![image alt](https://github.com/GunjalaSiddartha/AI-Powered-Mock-Interview-System-2/blob/00b695398d3fd391a80aed6ea852fb5e6c69d658/interview_types.png)
