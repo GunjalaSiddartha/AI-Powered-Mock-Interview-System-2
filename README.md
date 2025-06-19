@@ -10,7 +10,7 @@ The **AI-Powered Mock Interview System** is a smart web application designed to 
 - 🧠 **AI Question Generator** using Google Gemini API
 - ✍️ **Real-Time Feedback** on answers
 - 📊 **Performance Analytics** dashboard
-- 🧾 **Role-based Interview Sets** (e.g., SDE, ML, HR)
+- 🧾 **Role-based Interview Sets** (e.g., TTECHNICAL, BEHAVIOUR, HR)
 - ☁️ **Firebase Backend** for data storage
 - 🌐 **Modern UI** with Tailwind CSS and React
 
