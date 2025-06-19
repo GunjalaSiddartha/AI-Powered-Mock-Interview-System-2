@@ -17,3 +17,4 @@ The **AI-Powered Mock Interview System** is a smart web application designed to 
 ![image alt](https://github.com/GunjalaSiddartha/AI-Powered-Mock-Interview-System-2/blob/d40b88cdd9fb8b8072674a05f238d9e4efdeb8bb/interface.png)
 ![image alt](https://github.com/GunjalaSiddartha/AI-Powered-Mock-Interview-System-2/blob/00b695398d3fd391a80aed6ea852fb5e6c69d658/interview_types.png)
 ![image alt](https://github.com/GunjalaSiddartha/AI-Powered-Mock-Interview-System-2/blob/ddd0b38daf511b0525be51a8193fb8f8e00fefda/new_interview_session.png)
+![image alt](https://github.com/GunjalaSiddartha/AI-Powered-Mock-Interview-System-2/blob/575bd28f405ab8400c8410e25c338ee834970cba/interview_attending%20and%20result.png)
