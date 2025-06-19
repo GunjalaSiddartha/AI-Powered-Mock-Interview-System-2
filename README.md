@@ -23,8 +23,8 @@ The primary objective of the AI-Powered Mock Interview System is to simulate rea
     cd AI-Powered-Mock-Interview-System-2
   ### 2.Navigate to the command prompt and Setup:
     Mack sure thet you are in a correct folder and type
-    pnpm install
-    pnpm dev
+    1.pnpm install, 
+    2.pnpm dev
   ### 3.Open the App
     http://localhost:3000
 
