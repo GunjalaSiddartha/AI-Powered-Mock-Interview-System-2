@@ -1,5 +1,9 @@
 # 🤖 AI-Powered Mock Interview System
 
+## Project Interface
+![image alt](https://github.com/GunjalaSiddartha/AI-Powered-Mock-Interview-System-2/blob/d40b88cdd9fb8b8072674a05f238d9e4efdeb8bb/interface.png)
+
+
 The **AI-Powered Mock Interview System** is a smart web application designed to help job seekers practice and improve their interview skills. Using advanced AI tools, the platform simulates real-time interviews, analyzes responses (text, voice, and video), and provides personalized feedback to improve your performance.
 
 ## What is the objective of this Project and how will it help?
