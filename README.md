@@ -52,9 +52,9 @@ To provide a realistic, interactive mock interview experience that enhances user
 
 ## 📷 Screenshots
 
-| AI Question Generator | Live Interview Interface | Performance Feedback | Interview History |
-|------------------------|--------------------------|-----------------------|--------------------|
-| ![Question](https://github.com/GunjalaSiddartha/AI-Mock-Interview-System/blob/main/screenshots/question_gen.png) | ![Interview](https://github.com/GunjalaSiddartha/AI-Mock-Interview-System/blob/main/screenshots/interview_ui.png) | ![Feedback](https://github.com/GunjalaSiddartha/AI-Mock-Interview-System/blob/main/screenshots/feedback.png) | ![History](https://github.com/GunjalaSiddartha/AI-Mock-Interview-System/blob/main/screenshots/history.png) |
+| Interface | Types of Interviews | New Interview Session |  Live Interview Interface & Feedback | Interview History |
+|------------------------|--------------------------|-----------------------|--------------------|--------------------|
+| ![Question](https://github.com/GunjalaSiddartha/AI-Powered-Mock-Interview-System-2/blob/2832300a860ce05445d7610535d929d6b1c4d9eb/interface.png) | ![Types](https://github.com/GunjalaSiddartha/AI-Powered-Mock-Interview-System-2/blob/2832300a860ce05445d7610535d929d6b1c4d9eb/interview_types.png) |![Interview](https://github.com/GunjalaSiddartha/AI-Powered-Mock-Interview-System-2/blob/2832300a860ce05445d7610535d929d6b1c4d9eb/new_interview_session.png) | ![Feedback](https://github.com/GunjalaSiddartha/AI-Powered-Mock-Interview-System-2/blob/2832300a860ce05445d7610535d929d6b1c4d9eb/interview_attending%20and%20result.png) | ![History](https://github.com/GunjalaSiddartha/AI-Powered-Mock-Interview-System-2/blob/2832300a860ce05445d7610535d929d6b1c4d9eb/performance_dashboard.png) |
 
 ---
 
