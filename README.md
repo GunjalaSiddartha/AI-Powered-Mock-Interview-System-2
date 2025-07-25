@@ -1,49 +1,75 @@
-# 🤖 AI-Powered Mock Interview System
+# 🧠 AI-Powered Mock Interview System
 
-## Project Interface
-![image alt](https://github.com/GunjalaSiddartha/AI-Powered-Mock-Interview-System-2/blob/d40b88cdd9fb8b8072674a05f238d9e4efdeb8bb/interface.png)
+An advanced AI-based web application that simulates real-time technical interviews using AI agents. Built with React, Firebase, and Gemini AI, this tool helps users prepare for job interviews with personalized questions, voice interaction, feedback, and performance analytics.
 
+---
 
-The **AI-Powered Mock Interview System** is a smart web application designed to help job seekers practice and improve their interview skills. Using advanced AI tools, the platform simulates real-time interviews, analyzes responses (text, voice, and video), and provides personalized feedback to improve your performance.
+## 🎯 Objective
 
-## What is the objective of this Project and how will it help?
-The primary objective of the AI-Powered Mock Interview System is to simulate real-world technical and behavioral interview experiences using artificial intelligence. The system is designed to help students and job seekers practice interviews in a realistic and personalized environment, thereby improving their confidence, communication skills, and overall interview performance.
+To provide a realistic, interactive mock interview experience that enhances user confidence and readiness through dynamic AI-generated questions, voice analysis, and facial expression tracking — all within a browser-based platform.
+
+---
 
 ## 🚀 Features
 
-- 🔐 **User Authentication** with [Clerk](https://clerk.dev/)
-- 🎤 **Speech-to-Text** analysis
-- 📷 **Webcam Integration** for monitoring non-verbal cues
-- 🧠 **AI Question Generator** using Google Gemini API
-- ✍️ **Real-Time Feedback** on answers
-- 📊 **Performance Analytics** dashboard
-- 🧾 **Role-based Interview Sets** (e.g., TTECHNICAL, BEHAVIOUR, HR)
-- ☁️ **Firebase Backend** for data storage
-- 🌐 **Modern UI** with Tailwind CSS and React
+- 🗣️ **Speech-to-Text**: Users can answer questions verbally using their microphone.
+- 🧑‍⚖️ **AI-Generated Questions**: Real-time, dynamic questions based on user-selected domains using Gemini Pro.
+- 📸 **Webcam Capture**: Monitors facial expressions and non-verbal cues during interviews.
+- 📊 **AI-Based Feedback**: NLP-powered evaluation of spoken answers with scoring and improvement tips.
+- 🔒 **Secure Authentication**: User login and signup via Clerk authentication.
+- 📂 **User Dashboard**: Review interview history and performance insights.
+- 📁 **Data Storage**: Responses and feedback stored using Firebase Firestore.
+- 🌐 **Web Deployment Ready**: Fully functional and deployed on free-tier hosting.
 
-  ## How to run
-  ### 1.Clone the repository and install dependencies:
-    git clone https://github.com/GunjalaSiddartha/AI-Powered-Mock-Interview-System-2.git
-    cd AI-Powered-Mock-Interview-System-2
-  ### 2.Navigate to the command prompt and Setup:
-    Mack sure thet you are in a correct folder and type
-    1.pnpm install, 
-    2.pnpm dev
-  ### 3.Open the App
-    http://localhost:3000
+---
 
-  ---
+## 🧠 How It Works
 
-🎉 There you go! Your AI-Powered Mock Interview System is up and running.  
-Feel free to contribute, give feedback, or fork the project. Happy coding! 🚀
+1. User logs in securely via Clerk.
+2. Selects a job role/domain (e.g., Full Stack Developer, Data Scientist).
+3. AI generates personalized questions using Gemini Pro.
+4. User answers through voice — speech is transcribed using Web Speech API.
+5. AI evaluates the response using NLP and returns feedback with performance scores.
+6. Interview history is saved for future review.
 
-Good luck with your mock interviews!
-    
+---
 
+## 📦 Tech Stack
 
-## Screenshots
-![image alt](https://github.com/GunjalaSiddartha/AI-Powered-Mock-Interview-System-2/blob/d40b88cdd9fb8b8072674a05f238d9e4efdeb8bb/interface.png)
-![image alt](https://github.com/GunjalaSiddartha/AI-Powered-Mock-Interview-System-2/blob/00b695398d3fd391a80aed6ea852fb5e6c69d658/interview_types.png)
-![image alt](https://github.com/GunjalaSiddartha/AI-Powered-Mock-Interview-System-2/blob/ddd0b38daf511b0525be51a8193fb8f8e00fefda/new_interview_session.png)
-![image alt](https://github.com/GunjalaSiddartha/AI-Powered-Mock-Interview-System-2/blob/575bd28f405ab8400c8410e25c338ee834970cba/interview_attending%20and%20result.png)
-![image alt](https://github.com/GunjalaSiddartha/AI-Powered-Mock-Interview-System-2/blob/d33b55522f6fdbd6e15cb4f3b0524c94c763e204/performance_dashboard.png)
+| Layer           | Technologies |
+|------------------|--------------|
+| 👨‍💻 Frontend      | React.js (Vite), Tailwind CSS |
+| 🔙 Backend        | Node.js (for future extensibility) |
+| 🔐 Authentication | Clerk |
+| 🔮 AI Integration | Gemini Pro (via OpenAI or Google API) |
+| 🔊 Voice Input    | Web Speech API |
+| 📸 Webcam Input   | MediaDevices API |
+| 🧠 NLP Analysis   | Gemini + JavaScript-based text processors |
+| ☁️ Database       | Firebase Firestore |
+| 🌐 Deployment     | Vercel / Netlify (Frontend) |
+
+---
+
+## 📷 Screenshots
+
+| AI Question Generator | Live Interview Interface | Performance Feedback | Interview History |
+|------------------------|--------------------------|-----------------------|--------------------|
+| ![Question](https://github.com/GunjalaSiddartha/AI-Mock-Interview-System/blob/main/screenshots/question_gen.png) | ![Interview](https://github.com/GunjalaSiddartha/AI-Mock-Interview-System/blob/main/screenshots/interview_ui.png) | ![Feedback](https://github.com/GunjalaSiddartha/AI-Mock-Interview-System/blob/main/screenshots/feedback.png) | ![History](https://github.com/GunjalaSiddartha/AI-Mock-Interview-System/blob/main/screenshots/history.png) |
+
+---
+
+## 🛠️ Installation & Setup
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/GunjalaSiddartha/AI-Mock-Interview-System.git
+cd AI-Mock-Interview-System
+
+# 2. Install dependencies
+npm install
+
+# 3. Set up environment variables
+# .env file (for Clerk, Gemini API keys, Firebase config)
+
+# 4. Start the development server
+npm run dev
